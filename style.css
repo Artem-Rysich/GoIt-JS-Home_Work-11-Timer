@@ -1,0 +1,24 @@
+body {
+  background-color: darkseagreen;
+}
+.timer {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+  font-size: 40px;
+  font-weight: bold;
+  width: 750px;
+  height: 150px;
+  border: 5px darkred solid;
+  border-radius: 15%;
+}
+.field {
+  margin: auto;
+}
+.value {
+  text-align: center;
+  padding-bottom: 10px;
+  color: darkred;
+  display: block;
+}
